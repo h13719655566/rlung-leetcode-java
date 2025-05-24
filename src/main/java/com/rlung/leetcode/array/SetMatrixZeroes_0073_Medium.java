@@ -3,7 +3,7 @@ package com.rlung.leetcode.array;
 
 import java.util.*;
 
-public class SetMatrixZeroes_0073 {
+public class SetMatrixZeroes_0073_Medium {
 
     public void setZeroes(int[][] matrix) {
 
@@ -38,7 +38,7 @@ public class SetMatrixZeroes_0073 {
 
 
     public static void main(String[] args) {
-        SetMatrixZeroes_0073 solver = new SetMatrixZeroes_0073();
+        SetMatrixZeroes_0073_Medium solver = new SetMatrixZeroes_0073_Medium();
         /*
 
          Given an m x n integer matrix , if an element is 0, set its entire row and column to 0's.
